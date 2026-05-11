@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Applied mathematics and AI engineering student focused on:
+- agent systems
+- numerical methods
+- scientific computing
+- data science
+- AI-assisted research systems
+
+Currently learning:
+- Google ADK
+- multi-agent workflows
+- RAG systems
+- evaluation pipelines
